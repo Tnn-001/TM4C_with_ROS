@@ -1,0 +1,9 @@
+"./buct_hal.obj"
+"./main.obj"
+"./muart.obj"
+"./pid.obj"
+"./tm4c123gh6pm_startup_ccs.obj"
+"./uartstdio.obj"
+"../driverlib.lib"
+"../tm4c123gh6pm.cmd"
+-llibc.a

@@ -13,6 +13,10 @@
 ## 整体结构
 ![总体](https://github.com/Tnn-001/TM4C_with_ROS/assets/74281743/30595b4c-e8c6-43ce-9aa1-084bc854af54)
 
+## 说明
+- **robot** 文件夹为CCS(单片机)项目源码
+- **src** 文件夹为小车ROS源码
+
 ## 参考文献
 https://zhuanlan.zhihu.com/p/495247904
 
